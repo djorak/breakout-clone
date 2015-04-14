@@ -1,0 +1,17 @@
+{
+  "name": "breakout",
+  "version": "0.1.0",
+  "description": "A breakout-clone game as a fun JS exercise",
+  "author": "Julien 'Djorak' Mazé",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-jshint": "~0.11.1",
+    "grunt-contrib-jade": "~0.14.1",
+    "grunt-bowercopy": "~1.2.0",
+    "grunt-contrib-compass": "~1.0.3"
+  },
+  "dependencies": {
+    "assetmanager": "~1.1.2"
+  }
+}
